@@ -2,7 +2,7 @@
 
 namespace CherryAudio\ApiInspector\Controllers;
 
-use App\User;
+use App\Models\User;
 
 class TokensController extends Controller
 {
